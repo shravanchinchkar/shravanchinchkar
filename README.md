@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shravan Chinchkar</h1>
+<h1 align="start">Hey,I'm Shravan Chinchkar👋</h1>
 <h3 align="center">A Computer Engineer and a Full-Stack Software Fresher with the ability and mentality to learn new emerging technologies, with patience and interest.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanchinchkar&label=Profile%20views&color=0e75b6&style=flat" alt="shravanchinchkar" /> </p>
