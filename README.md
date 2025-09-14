@@ -1,22 +1,34 @@
-<h1 align="start">Hey,I'm Shravan Chinchkar👋</h1>
-<h3 align="center">A Computer Engineer and a Full-Stack Software Fresher with the ability and mentality to learn new emerging technologies, with patience and interest.</h3>
+# Hey, I'm Shravan Chinchkar👋
+
+### `A Computer Engineer and a Full-Stack Software Fresher with the ability and mentality to learn new emerging technologies, with patience and interest.`
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanchinchkar&label=Profile%20views&color=0e75b6&style=flat" alt="shravanchinchkar" /> </p>
 
+## About me
 - 🔭 I’m currently working on [Plant Nursery Management Web Application.](https://growvatika.live)
-
 - 🌱 I’m currently learning **Java Full Stack Development**
-
-- 💬 Ask me about **next.js,react,typescript,javascript,postgres,mongodb**
-
 - 📫 How to reach me **shravanchinchkar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qK8MZfxHpaJNanItucnHuP1-uC5mzooS/view?usp=sharing](https://drive.google.com/file/d/1qK8MZfxHpaJNanItucnHuP1-uC5mzooS/view?usp=sharing)
+- 📄 Know about my experiences [Shravan Resume](https://drive.google.com/file/d/1qK8MZfxHpaJNanItucnHuP1-uC5mzooS/view?usp=sharing)
 
+## My Skill Set
+
+### Frontend
+- Skills: **HTML5**, **CSS**, **Javascript/Typescript**, **React**, **TailwindCSS**, **zustand**, **Recoil**, **Next.js**
+
+### Backend
+- Skills: **Node.js**, **Express**, **Hono**, **REST APIs**
+
+### Database
+- Skills: **MongoDB**, **PostgresSQL**, **Prisma**, **Drizzle**
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shravan-chinchkar-308010250/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravan-chinchkar-308010250/" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -50,5 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanchinchkar&" alt="shravanchinchkar" /></p>
