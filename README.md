@@ -1,4 +1,4 @@
-# Hey, I'm Shravan Chinchkar👋
+# Namaskar🙏, I'm Shravan Chinchkar.
 
 ### `A Computer Engineer and a Full-Stack Software Fresher with the ability and mentality to learn new emerging technologies, with patience and interest.`
 
