@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shravanchinchkar&label=Profile%20views&color=0e75b6&style=flat" alt="shravanchinchkar" /> </p>
 
 ## About me
+
 - 🔭 I’m currently working on [Plant Nursery Management Web Application.](https://growvatika.live)
 - 🌱 I’m currently learning **Java Full Stack Development**
 - 📫 How to reach me **shravanchinchkar@gmail.com**
@@ -14,15 +15,35 @@
 ## My Skill Set
 
 ### Frontend
+
 - Skills: **HTML5**, **CSS**, **Javascript/Typescript**, **React**, **TailwindCSS**, **zustand**, **Recoil**, **Next.js**
 
 ### Backend
+
 - Skills: **Node.js**, **Express**, **Hono**, **REST APIs**
 
 ### Database
+
 - Skills: **MongoDB**, **PostgresSQL**, **Prisma**, **Drizzle**
 
+### Full Stack
+
+- Skills: **Turborepo**, **Next.js**
+
+### Devops
+
+- Skills: **Docker**, **AWS Deployment**, **Cloudflare**, **Vercel**
+
+### Version Control
+
+- Skills: **Git**, **Github**
+
+### APIS & Tools
+
+- Skills: **REST APIs**, **Postman**
+
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shravan-chinchkar-308010250/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shravan-chinchkar-308010250/" height="30" width="40" /></a>
