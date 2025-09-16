@@ -17,24 +17,15 @@
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwindcss,nextjs)](https://skillicons.dev)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+### Backend and Database
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,sequelize,postman)](https://skillicons.dev)
 
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
 
-### Full Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+### Full Stack and Version Control
+[![My Skills](https://skillicons.dev/icons?i=nextjs,git,github)](https://skillicons.dev)
 
 ### Devops
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,vercel)](https://skillicons.dev)
-
-### Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-
-### APIS & Tools
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ---
 
